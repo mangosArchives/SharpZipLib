@@ -1,0 +1,4 @@
+SharpZipLib
+===========
+
+C# Zip Library
